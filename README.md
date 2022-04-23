@@ -4,7 +4,7 @@
 ## Overview of Project
 
     The purpose of this project is to analyze stock data, using VBA, for Steve's 
-    parents, so they would be able to make a sensible decision of 
+    parents, so they would be able to make a rational decision of 
     which stocks to invest in. His parents initially wanted to invest in
     one stock, but Steve advised them not to put all their eggs in 
     one basket. This project finds the total daily
