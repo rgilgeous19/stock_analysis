@@ -233,13 +233,13 @@
         In 2017, the original VBA code ran in 0.6953125 seconds, while the
         refactored code ran in 0.125 seconds.                          
         
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/103302566/164865573-e08649f7-c1e3-4be1-a658-7ff74c0cfaa0.png)
-
-         
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/103302566/164868123-dfffe487-8498-4ba1-be25-a3cc1a58386d.png)
+      
          In 2018, the original VBA code ran in 0.703125 seconds, while the 
          refactored code ran in 0.125 seconds.
          
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/103302566/164865999-6629e41e-4be6-4841-98eb-8e0cc4435f67.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/103302566/164868159-dd1decb5-f787-4b44-ac25-0efaf1838149.png)
+
        
 ## Summary
     
