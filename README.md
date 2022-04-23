@@ -248,7 +248,8 @@
       However, refactoring code may introduce new errors and bugs into the code. It also may not transfer everything
       you needed from your original code to make it successful.
       
-    - In this VBA script, the refactored code helped me to better understand the steps I needed to take in order to
-      make the code more efficent. 
-
+    - In the original VBA script, my code was more freehanded and I made more mental notes of the steps I needed to take.
+      However, the refactored code provided more details on the steps I needed to take in order to run the code efficiently.
+      On the original VBA script, I was able to make the code my own, but the refactored code did not copy everything 
+      from my original code, specifically the formatting. 
 
