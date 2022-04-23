@@ -241,7 +241,14 @@
          
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/103302566/164865999-6629e41e-4be6-4841-98eb-8e0cc4435f67.png)
        
+## Summary
     
-    
-    
+    - In general, some advantages of refactoring code would be that it helps clean up the original code, 
+      making it more efficient and saving time. It also makes the original code more comprehensible and maintable. 
+      However, refactoring code may introduce new errors and bugs into the code. It also may not transfer everything
+      you needed from your original code to make it successful.
+      
+    - In this VBA script, the refactored code helped me to better understand the steps I needed to take in order to
+      make the code more efficent. 
+
 
